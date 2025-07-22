@@ -2,7 +2,7 @@ import React from 'react';
 import { FaUserTie, FaFileDownload } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
-const resumeUrl = '/Resume.pdf';
+const resumeUrl = '/eshwar.pdf';
 const heroBgUrl = '/WhatsApp Image 2025-06-06 at 18.00.06_860db624.jpg'; // Place the image in public/
 
 const Hero = () => {
