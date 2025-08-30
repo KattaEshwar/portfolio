@@ -5,7 +5,7 @@ const projects = [
     name: 'CURABOT',
     teamSize: 4,
     keySkills: 'React mean stack',
-    link: 'https://superb-maamoul-d26aad.netlify.app/',
+  link: 'https://curabot-project.vercel.app/',
     description: 'CuraBot is an AI-powered healthcare assistant that enhances hospital management by streamlining appointments, medicine recommendations, and urgent care assistance',
   },
   {

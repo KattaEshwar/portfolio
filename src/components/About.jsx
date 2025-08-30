@@ -40,7 +40,7 @@ const About = () => {
             transition={{ duration: 0.5, delay: 0.6 }}
           >
             <p><strong>2022 - 2026:</strong> Parul University</p>
-            <p className="ml-4">B.Tech. - CSE - Artificial Intelligence - PIET | CGPA: 7.66 / 10</p>
+            <p className="ml-4">B.Tech. - CSE - Artificial Intelligence - PIET | CGPA: 7.69/ 10</p>
             <p><strong>2022:</strong> Sri Chaitanaya Junior Kalasala</p>
             <p className="ml-4">12th | TSBIE | Percentage: 92.50 / 100</p>
             <p><strong>2020:</strong> Sri Chaitanaya School</p>
